@@ -1,0 +1,21 @@
+.contanier{
+	display:row;
+	flex-direction:column-reverse;
+	justify-content:space-around;
+	background-color:#c0c0c0;
+	border: solid 1px;
+	align-items: center;
+	}
+.item{
+	font-size: 30px;
+	color: lime;
+	flex-basis: 25%;
+}
+.item1{
+	font-size: 80px;
+	color: purple;
+.item2{
+	align-self: end;
+	
+}
+}

@@ -1,0 +1,17 @@
+.contanier{
+	display:flex;
+	flex-direction:column-reverse;
+	justify-content:space-around;
+	background-color:#c0c0c0;
+	border: solid 1px;
+	align-items: center;
+	}
+.item{
+	font-size: 30px;
+	color: lime;
+}
+.item1{
+	font-size: 80px;
+	color: purple;
+	
+}
